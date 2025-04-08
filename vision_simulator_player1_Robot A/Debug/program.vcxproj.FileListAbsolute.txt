@@ -1,0 +1,2 @@
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\Debug\program.exe
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\Debug\program.pdb

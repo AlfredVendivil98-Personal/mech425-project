@@ -1,0 +1,39 @@
+﻿  attack.cpp
+  defence.cpp
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\defence.cpp(38,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\defence.cpp(39,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\defence.cpp(82,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\defence.cpp(84,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\defence.cpp(96,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\defence.cpp(98,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  object_tracking.cpp
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\object_tracking.cpp(111,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\object_tracking.cpp(611,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\object_tracking.cpp(733,34): warning C4244: '=': conversion from 'double' to 'ibyte', possible loss of data
+  program.cpp
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(195,14): warning C4101: 'B': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(195,8): warning C4101: 'R': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(49,22): warning C4101: 'pw_laser_o': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(186,6): warning C4101: 'b': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(49,34): warning C4101: 'laser_o': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(194,24): warning C4101: 'destination_y': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(49,6): warning C4101: 'pw_l_o': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(195,11): warning C4101: 'G': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(186,9): warning C4101: 'stat': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(194,9): warning C4101: 'destination_x': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\program.cpp(49,14): warning C4101: 'pw_r_o': unreferenced local variable
+  robot.cpp
+  shared_memory.cpp
+  timer.cpp
+  vision.cpp
+  vision_cone.cpp
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\vision_cone.cpp(79,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\vision_cone.cpp(166,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\vision_cone.cpp(198,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  vision_simulation.cpp
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\vision_simulation.cpp(268,18): warning C4101: 't_laser_o': unreferenced local variable
+C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\vision_simulation.cpp(268,9): warning C4101: 't_laser': unreferenced local variable
+  Generating Code...
+image_transfer.lib(image_transfer.obj) : warning LNK4099: PDB 'program.pdb' was not found with 'image_transfer.lib(image_transfer.obj)' or at 'C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\Debug\program.pdb'; linking object as if no debug info
+image_transfer.lib(Video_IO.obj) : warning LNK4099: PDB 'program.pdb' was not found with 'image_transfer.lib(Video_IO.obj)' or at 'C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\Debug\program.pdb'; linking object as if no debug info
+  program.vcxproj -> C:\Users\alfre\OneDrive\Desktop\PROJECT\V13- FINAL\vision_simulator_player1_Robot A\.\Debug\program.exe
